@@ -9,6 +9,16 @@
       "projectName": "building_a_restful_web_service",
       "args": "",
       "envFile": "${workspaceFolder}/.env"
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-ConsumingARestfulWebServiceApplication<consuming_a_restful_web_service>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.pksj.consuming_a_restful_web_service.ConsumingARestfulWebServiceApplication",
+      "projectName": "consuming_a_restful_web_service",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
     }
   ]
 }
