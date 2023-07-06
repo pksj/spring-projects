@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-BuildingARestfulWebServiceApplication<building_a_restful_web_service>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.pksj.building_a_restful_web_service.BuildingARestfulWebServiceApplication",
+      "projectName": "building_a_restful_web_service",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
